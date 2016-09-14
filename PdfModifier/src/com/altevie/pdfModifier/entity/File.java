@@ -1,8 +1,8 @@
 package com.altevie.pdfModifier.entity;
 
 public class File {
-	String path = "";
-	String name = "";
+	private String path = "";
+	private String name = "";
 
 	public String getPath() {
 		return this.path;
